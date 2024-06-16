@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 from flask_restful import Api, Resource
 from data import restaurants, details
 from datetime import datetime
@@ -95,6 +95,10 @@ class DeleteReview(Resource):
                 }
             return {"error": True, "message": "Review not found"}, 404
         return {"error": True, "message": "Restaurant not found"}, 404
+
+@app.route('/')
+def home():
+    return render_template('index.html')
 
 api.add_resource(RestaurantList, '/list')
 api.add_resource(RestaurantDetail, '/detail/<string:restaurant_id>')
