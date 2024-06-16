@@ -1,3 +1,5 @@
+import uuid
+
 restaurants = [
     {
         "id": "rqdv5juczeskfw1e867",
@@ -106,6 +108,7 @@ details = {
         "rating": 4.5,
         "customerReviews": [
             {
+                "review_id": str(uuid.uuid4()),
                 "name": "Budi",
                 "review": "Sate yang sangat lezat, bumbu kacangnya mantap!",
                 "date": "20 Maret 2022"
@@ -136,6 +139,7 @@ details = {
         "rating": 4.7,
         "customerReviews": [
             {
+                "review_id": str(uuid.uuid4()),
                 "name": "Sari",
                 "review": "Bebek gorengnya sangat renyah dan bumbunya meresap!",
                 "date": "15 Februari 2022"
@@ -166,6 +170,7 @@ details = {
         "rating": 4.3,
         "customerReviews": [
             {
+                "review_id": str(uuid.uuid4()),
                 "name": "Andi",
                 "review": "Bakmi yang sangat enak, pangsit gorengnya wajib dicoba!",
                 "date": "10 Januari 2022"
@@ -196,6 +201,7 @@ details = {
         "rating": 4.6,
         "customerReviews": [
             {
+                "review_id": str(uuid.uuid4()),
                 "name": "Dewi",
                 "review": "Nasi uduknya enak, sambalnya pedasnya pas!",
                 "date": "5 April 2022"
@@ -226,6 +232,7 @@ details = {
         "rating": 4.4,
         "customerReviews": [
             {
+                "review_id": str(uuid.uuid4()),
                 "name": "Rian",
                 "review": "Mie ayamnya enak banget, porsinya juga banyak!",
                 "date": "12 Maret 2022"
@@ -256,6 +263,7 @@ details = {
         "rating": 4.8,
         "customerReviews": [
             {
+                "review_id": str(uuid.uuid4()),
                 "name": "Joko",
                 "review": "Mie ayamnya mantap, porsinya besar banget!",
                 "date": "25 Februari 2022"
@@ -286,6 +294,7 @@ details = {
         "rating": 4.5,
         "customerReviews": [
             {
+                "review_id": str(uuid.uuid4()),
                 "name": "Lina",
                 "review": "Soto Betawinya enak, kuahnya gurih dan dagingnya empuk!",
                 "date": "10 Januari 2022"
@@ -316,6 +325,7 @@ details = {
         "rating": 4.6,
         "customerReviews": [
             {
+                "review_id": str(uuid.uuid4()),
                 "name": "Wahyu",
                 "review": "Ayam bakarnya mantap, bumbunya meresap banget!",
                 "date": "18 Februari 2022"
@@ -346,6 +356,7 @@ details = {
         "rating": 4.7,
         "customerReviews": [
             {
+                "review_id": str(uuid.uuid4()),
                 "name": "Rina",
                 "review": "Pempeknya enak banget, cuko-nya pedas dan mantap!",
                 "date": "5 Maret 2022"
@@ -376,6 +387,7 @@ details = {
         "rating": 4.9,
         "customerReviews": [
             {
+                "review_id": str(uuid.uuid4()),
                 "name": "Ayu",
                 "review": "Gudegnya enak banget, rasa manis dan gurihnya pas!",
                 "date": "12 Januari 2022"

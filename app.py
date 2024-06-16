@@ -2,6 +2,7 @@ from flask import Flask, request, jsonify, render_template
 from flask_restful import Api, Resource
 from data import restaurants, details
 from datetime import datetime
+import uuid
 
 app = Flask(__name__)
 api = Api(app)
@@ -44,6 +45,7 @@ class AddReview(Resource):
         
         if restaurant_id in details:
             new_review = {
+                "review_id": str(uuid.uuid4()),
                 "name": name,
                 "review": review,
                 "date": datetime.now().strftime("%d %B %Y")
@@ -60,12 +62,12 @@ class UpdateReview(Resource):
     def put(self):
         data = request.get_json()
         restaurant_id = data.get('id')
-        name = data.get('name')
+        review_id = data.get('review_id')
         new_review_text = data.get('review')
         
         if restaurant_id in details:
             reviews = details[restaurant_id]['customerReviews']
-            review_to_update = next((r for r in reviews if r['name'] == name), None)
+            review_to_update = next((r for r in reviews if r['review_id'] == review_id), None)
             if review_to_update:
                 review_to_update['review'] = new_review_text
                 review_to_update['date'] = datetime.now().strftime("%d %B %Y")
@@ -81,11 +83,11 @@ class DeleteReview(Resource):
     def delete(self):
         data = request.get_json()
         restaurant_id = data.get('id')
-        name = data.get('name')
+        review_id = data.get('review_id')
         
         if restaurant_id in details:
             reviews = details[restaurant_id]['customerReviews']
-            review_to_delete = next((r for r in reviews if r['name'] == name), None)
+            review_to_delete = next((r for r in reviews if r['review_id'] == review_id), None)
             if review_to_delete:
                 reviews.remove(review_to_delete)
                 return {
