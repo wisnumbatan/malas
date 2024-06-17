@@ -81,7 +81,176 @@ restaurants = [
         "city": "Yogyakarta",
         "rating": 4.9
     }
+     {
+        "id": "f4kdk3j82kf8w1e821",
+        "name": "Ayam Goreng Suharti",
+        "description": "Ayam goreng dengan bumbu kremes yang renyah dan lezat.",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS54iDgi9s9EpMRpb5Y8Ofrd2JR9qfi7bZ7VA&s",
+        "city": "Yogyakarta",
+        "rating": 4.5
+    },
+    {
+        "id": "f2bdk3j82kf8w1e867",
+        "name": "Bubur Ayam Barito",
+        "description": "Bubur ayam dengan topping melimpah dan cita rasa gurih.",
+        "pictureId": "https://manual.co.id/wp-content/uploads/2014/06/Bubur-Ayam-Barito-Street-Food_Barito-1.jpg",
+        "city": "Jakarta",
+        "rating": 4.4
+    },
+    {
+        "id": "f8kdk4h82kf8w1e867",
+        "name": "Sop Buntut Cut Meutia",
+        "description": "Sop buntut dengan kuah yang kaya rasa dan daging yang empuk.",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY9F8fxZ0sAGrlzgNMvBFEOP7LuUNa2u9JVQ&s",
+        "city": "Jakarta",
+        "rating": 4.6
+    },
+    {
+        "id": "a2kdk3j82kf8w1e867",
+        "name": "Nasi Campur Bali Men Weti",
+        "description": "Nasi campur Bali dengan beragam lauk yang nikmat.",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLNBQQUc8aMgcyBnIUpYer_WjJHWG_o0Kaug&s",
+        "city": "Bali",
+        "rating": 4.7
+    },
+    {
+        "id": "o9kdk3j82kf8w1e867",
+        "name": "Gado-Gado Boplo",
+        "description": "Gado-gado dengan bumbu kacang yang kental dan lezat.",
+        "pictureId": "https://d2dzi65yjecjnt.cloudfront.net/357959.jpg",
+        "city": "Jakarta",
+        "rating": 4.5
+    },
+    {
+        "id": "f8kdk3j82kf8w1c917",
+        "name": "Lontong Balap Garuda Pak Gendut",
+        "description": "Lontong balap dengan kuah yang gurih dan tahu yang lembut.",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVcGVwbY6h1LCScIzk7MXBpAg95J6ADWA3Q&s",
+        "city": "Surabaya",
+        "rating": 4.6
+    },
+    {
+        "id": "f8kdk3j82kf8w1w817",
+        "name": "Rawon Setan",
+        "description": "Rawon dengan daging yang empuk dan kuah yang kaya rasa.",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-6A7xpne5gS6lbZICHnLfynNY-_58xh_qrw&s",
+        "city": "Surabaya",
+        "rating": 4.7
+    },
+    {
+        "id": "f8kdk3j81gf8w1e867",
+        "name": "Sate Babi Bawah Pohon",
+        "description": "Sate babi dengan bumbu khas Bali yang meresap.",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXTjws2h3qCla54BOsgJqrwB5OzORRpSQGuA&s",
+        "city": "Bali",
+        "rating": 4.8
+    },
+    {
+        "id": "f2ilk3j82kf8w1e867",
+        "name": "Nasi Padang Sederhana",
+        "description": "Nasi padang dengan beragam lauk yang lezat dan bumbu yang kaya.",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYN7dCyoGgoaJkTQuFG8DyDxLuZYnylxm6Rg&s",
+        "city": "Padang",
+        "rating": 4.5
+    },
+    {
+        "id": "7fkdk3j82kf8w1e867",
+        "name": "Bale Udang Mang Engking",
+        "description": "Restoran dengan suasana pedesaan yang menyajikan hidangan udang segar.",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aEAPIqhT3znY6ClBgKLh-AOdYRA2SQR0QQ&s",
+        "city": "Bandung",
+        "rating": 4.6
+    },
+    {
+        "id": "f8alc3j82kf8w1e867",
+        "name": "Tahu Gejrot Pak John",
+        "description": "Tahu gejrot dengan kuah pedas manis yang nikmat.",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDqCT1PZaCRRsUCswV4pbhsFsxW782LkkDCDwgbR_TXRZkEYceIHugWdj-IBf8ufCgAJ8&usqp=CAU",
+        "city": "Cirebon",
+        "rating": 4.4
+    },
+    {
+        "id": "f8kdk3j82kf8w1q777",
+        "name": "Mie Kocok Mang Dadeng",
+        "description": "Mie kocok dengan kuah kaldu yang gurih dan kikil yang empuk.",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY4Y4kBqSqoBVcnPflwLTEQK3byi0HifhA5A&s",
+        "city": "Bandung",
+        "rating": 4.5
+    },
+    {
+        "id":"f8alc3j14sf8w1e867",
+        "name": "Nasi Liwet Wongso Lemu",
+        "description": "Nasi liwet khas Solo dengan cita rasa yang autentik.",
+        "pictureId": "https://awsimages.detik.net.id/community/media/visual/2021/12/05/nasi-liwet-bu-wongso-lemu-2.jpeg?w=3264",
+        "city": "Solo",
+        "rating": 4.7
+    },
+    {
+        "id": "f2xlc3j82kf8w1e867",
+        "name": "Tahu Sumedang Renyah",
+        "description": "Tahu Sumedang yang gurih dan renyah di luar, lembut di dalam.",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-XbeaECSJxGfsMUTS-jfY3rM4ri9wDj4H7A&s",
+        "city": "Sumedang",
+        "rating": 4.4
+    },
+    {
+        "id": "f8alc3l90kf8w1e867",
+        "name": "Es Campur Pak Oyen",
+        "description": "Es campur dengan beragam isian yang menyegarkan dan manis.",
+        "pictureId": "https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/04/25/1103737014.jpg",
+        "city": "Bandung",
+        "rating": 4.6
+    },
+    {
+        "id": "m1alc3j82kf8w1e867",
+        "name": "Kerak Telor Bang Ino",
+        "description": "Kerak telor khas Betawi dengan rasa yang autentik.",
+        "pictureId": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/081df485-ed86-43a7-a5ce-98d6d4587576.jpg",
+        "city": "Jakarta",
+        "rating": 4.5
+    },
+    {
+        "id": "b4alc3j82kf8w1e867",
+        "name": "Soto Lamongan Cak Har",
+        "description": "Soto Lamongan dengan kuah yang kaya rempah dan daging ayam yang empuk.",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbVzQZC4pF5K5e8-0vTFQRk3g80RZoCjw-7w&s",
+        "city": "Surabaya",
+        "rating": 4.7
+    },
+    {
+        "id": "l9alc3j82kf8w1e867",
+        "name": "Bakso President",
+        "description": "Bakso dengan kuah kaldu yang gurih dan bakso yang kenyal.",
+        "pictureId": "hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7nlkx9sXesFmDWE-DmyoMVuMCrfMefQBmpg&s",
+        "city": "Malang",
+        "rating": 4.6
+    },
+    {
+        "id": "o7alc3j82kf8w1e867",
+        "name": "Nasi Krawu Mbuk Su",
+        "description": "Nasi krawu dengan beragam lauk yang lezat dan bumbu yang kaya.",
+        "pictureId": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/1053/2024/03/14/krawu-legen-1697157603.jpg",
+        "city": "Gresik",
+        "rating": 4.7
+    },
+    {
+        "id": "k3alc3j82kf8w1e867",
+        "name": "Nasi Goreng Kambing Kebon Sirih",
+        "description": "Nasi goreng kambing dengan bumbu rempah yang khas dan daging kambing yang empuk.",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNygkQFPvr_VE6Q60fMpwMJHsnsn39KXOnqw&s",
+        "city": "Jakarta",
+        "rating": 4.5
+    },
+    {
+        "id": "f2zlc3j82kf8w1e867",
+        "name": "Es Teler 77",
+        "description": "Es teler dengan campuran buah dan susu yang segar dan nikmat.",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZbhRpSKFF3yB-24vHLwnatlbbzxwuA48SLw&s",
+        "city": "Jakarta",
+        "rating": 4.4
+    }
 ]
+
 
 details = {
     "rqdv5juczeskfw1e867": {
@@ -393,5 +562,615 @@ details = {
                 "date": "12 Januari 2022"
             }
         ]
+    },
+    
+    "f4kdk3j82kf8w1e821": {
+        "id": "f4kdk3j82kf8w1e821",
+        "name": "Ayam Goreng Suharti",
+        "description": "Ayam goreng dengan bumbu kremes yang renyah dan lezat.",
+        "city": "Yogyakarta",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS54iDgi9s9EpMRpb5Y8Ofrd2JR9qfi7bZ7VA&s",
+        "rating": 4.5,
+        "categories": [
+            {"name": "Indonesian"},
+            {"name": "Ayam Goreng"}
+        ],
+        "menus": {
+            "foods": [
+                {"name": "Ayam Goreng"},
+                {"name": "Nasi Putih"}
+            ],
+            "drinks": [
+                {"name": "Es Teh Manis"},
+                {"name": "Es Jeruk"}
+            ]
+        },
+        "customerReviews": [
+            {
+                "review_id": "rwf4kdk3j82kf8w1e821",
+                "name": "Siti",
+                "review": "Ayam gorengnya sangat enak, bumbunya meresap sampai ke tulang!",
+                "date": "15 Februari 2023"
+            },
+            {
+                "review_id": "rwf4kdk3j82kf8w1e822",
+                "name": "Budi",
+                "review": "Portion is great and the taste is fantastic!",
+                "date": "10 January 2023"
+            }
+        ]
+    },
+    "f2bdk3j82kf8w1e867": {
+        "id": "f2bdk3j82kf8w1e867",
+        "name": "Bubur Ayam Barito",
+        "description": "Bubur ayam dengan topping melimpah dan cita rasa gurih.",
+        "city": "Jakarta",
+        "pictureId": "https://manual.co.id/wp-content/uploads/2014/06/Bubur-Ayam-Barito-Street-Food_Barito-1.jpg",
+        "rating": 4.4,
+        "categories": [
+            {"name": "Indonesian"},
+            {"name": "Bubur Ayam"}
+        ],
+        "menus": {
+            "foods": [
+                {"name": "Bubur Ayam"},
+                {"name": "Kerupuk"}
+            ],
+            "drinks": [
+                {"name": "Es Teh Manis"},
+                {"name": "Es Campur"}
+            ]
+        },
+        "customerReviews": [
+            {
+                "review_id": "rwf2bdk3j82kf8w1e867",
+                "name": "Ani",
+                "review": "Bubur ayamnya enak, toppingnya melimpah!",
+                "date": "20 Maret 2023"
+            },
+            {
+                "review_id": "rwf2bdk3j82kf8w1e868",
+                "name": "Rudi",
+                "review": "Saya suka bubur ayamnya, rasanya gurih!",
+                "date": "25 Februari 2023"
+            }
+        ]
+    },
+    "f8kdk4h82kf8w1e867": {
+        "id": "f8kdk4h82kf8w1e867",
+        "name": "Sop Buntut Cut Meutia",
+        "description": "Sop buntut dengan kuah yang kaya rasa dan daging yang empuk.",
+        "city": "Jakarta",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY9F8fxZ0sAGrlzgNMvBFEOP7LuUNa2u9JVQ&s",
+        "rating": 4.6,
+        "categories": [
+            {"name": "Indonesian"},
+            {"name": "Sop Buntut"}
+        ],
+        "menus": {
+            "foods": [
+                {"name": "Sop Buntut"},
+                {"name": "Nasi Putih"}
+            ],
+            "drinks": [
+                {"name": "Es Teh Manis"},
+                {"name": "Es Campur"}
+            ]
+        },
+        "customerReviews": [
+            {
+                "review_id": "rwf8kdk4h82kf8w1e867",
+                "name": "Dewi",
+                "review": "Sop buntutnya lezat, kuahnya kaya rasa!",
+                "date": "18 Februari 2023"
+            }
+        ]
+    },
+    "a2kdk3j82kf8w1e867": {
+        "id": "a2kdk3j82kf8w1e867",
+        "name": "Nasi Campur Bali Men Weti",
+        "description": "Nasi campur Bali dengan beragam lauk yang nikmat.",
+        "city": "Bali",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLNBQQUc8aMgcyBnIUpYer_WjJHWG_o0Kaug&s",
+        "rating": 4.7,
+        "categories": [
+            {"name": "Indonesian"},
+            {"name": "Nasi Campur"}
+        ],
+        "menus": {
+            "foods": [
+                {"name": "Nasi Campur"},
+                {"name": "Ayam Betutu"}
+            ],
+            "drinks": [
+                {"name": "Es Teh Manis"},
+                {"name": "Es Jeruk"}
+            ]
+        },
+        "customerReviews": [
+            {
+                "review_id": "rwa2kdk3j82kf8w1e867",
+                "name": "Putu",
+                "review": "Nasi campurnya enak, lauknya beragam!",
+                "date": "22 Januari 2023"
+            }
+        ]
+    },
+    "o9kdk3j82kf8w1e867": {
+        "id": "o9kdk3j82kf8w1e867",
+        "name": "Gado-Gado Boplo",
+        "description": "Gado-gado dengan bumbu kacang yang kental dan lezat.",
+        "city": "Jakarta",
+        "pictureId": "https://d2dzi65yjecjnt.cloudfront.net/357959.jpg",
+        "rating": 4.5,
+        "categories": [
+            {"name": "Indonesian"},
+            {"name": "Gado-Gado"}
+        ],
+        "menus": {
+            "foods": [
+                {"name": "Gado-Gado"},
+                {"name": "Kerupuk"}
+            ],
+            "drinks": [
+                {"name": "Es Teh Manis"},
+                {"name": "Es Campur"}
+            ]
+        },
+        "customerReviews": [
+            {
+                "review_id": "rwo9kdk3j82kf8w1e867",
+                "name": "Siska",
+                "review": "Gado-gadonya enak, bumbunya pas!",
+                "date": "5 Maret 2023"
+            }
+        ]
+    },
+    "f8kdk3j82kf8w1c917": {
+        "id": "f8kdk3j82kf8w1c917",
+        "name": "Lontong Balap Garuda Pak Gendut",
+        "description": "Lontong balap dengan kuah yang gurih dan tahu yang lembut.",
+        "city": "Surabaya",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYVcGVwbY6h1LCScIzk7MXBpAg95J6ADWA3Q&s",
+        "rating": 4.6,
+        "categories": [
+            {"name": "Indonesian"},
+            {"name": "Lontong Balap"}
+        ],
+        "menus": {
+            "foods": [
+                {"name": "Lontong Balap"},
+                {"name": "Tahu Goreng"}
+            ],
+            "drinks": [
+                {"name": "Es Teh Manis"},
+                {"name": "Es Campur"}
+            ]
+        },
+        "customerReviews": [
+            {
+                "review_id": "rwf8kdk3j82kf8w1c917",
+                "name": "Rita",
+                "review": "Lontong balapnya enak, kuahnya gurih!",
+                "date": "10 Februari 2023"
+            }
+        ]
+    },
+    "f8kdk3j82kf8w1w817": {
+        "id": "f8kdk3j82kf8w1w817",
+        "name": "Rawon Setan",
+        "description": "Rawon dengan daging yang empuk dan kuah yang kaya rasa.",
+        "city": "Surabaya",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-6A7xpne5gS6lbZICHnLfynNY-_58xh_qrw&s",
+        "rating": 4.7,
+        "categories": [
+            {"name": "Indonesian"},
+            {"name": "Rawon"}
+        ],
+        "menus": {
+            "foods": [
+                {"name": "Rawon"},
+                {"name": "Telur Asin"}
+            ],
+            "drinks": [
+                {"name": "Es Teh Manis"},
+                {"name": "Es Campur"}
+            ]
+        },
+        "customerReviews": [
+            {
+                "review_id": "rwf8kdk3j82kf8w1w817",
+                "name": "Dian",
+                "review": "Rawonnya enak, dagingnya empuk!",
+                "date": "28 Januari 2023"
+            }
+        ]
+    },
+    "f8kdk3j81gf8w1e867": {
+        "id": "f8kdk3j81gf8w1e867",
+        "name": "Sate Babi Bawah Pohon",
+        "description": "Sate babi dengan bumbu khas Bali yang meresap.",
+        "city": "Bali",
+        "address": "Jl. Gajah Mada No. 45, Denpasar, Bali",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXTjws2h3qCla54BOsgJqrwB5OzORRpSQGuA&s",
+        "categories": [
+            {"name": "Indonesian"},
+            {"name": "Satay"}
+        ],
+        "menus": {
+            "foods": [
+                {"name": "Sate Babi"},
+                {"name": "Sate Lilit"}
+            ],
+            "drinks": [{"name": "Es Teh Manis"},
+                {"name": "Es Cincau"}]
+        },
+        "rating": 4.8,
+        "customerReviews": [{
+                "review_id": str(uuid.uuid4()),
+                "name": "Sri",
+                "review": "Satenya enak banget, dagingnya empuk!",
+                "date": "25 Maret 2023"
+            }]
+    },
+    "f2ilk3j82kf8w1e867": {
+        "id": "f2ilk3j82kf8w1e867",
+        "name": "Nasi Padang Sederhana",
+        "description": "Nasi padang dengan beragam lauk yang lezat dan bumbu yang kaya.",
+        "city": "Padang",
+        "address": "Jl. Padang Baru No. 12, Padang",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYN7dCyoGgoaJkTQuFG8DyDxLuZYnylxm6Rg&s",
+        "categories": [
+            {"name": "Indonesian"},
+            {"name": "Padang"}
+        ],
+        "menus": {
+            "foods": [
+                {"name": "Nasi Padang"},
+                {"name": "Rendang"}
+            ],
+            "drinks": [{"name": "Es Teh Manis"},
+                {"name": "Es Cincau"}]
+        },
+        "rating": 4.5,
+        "customerReviews": [{
+                "review_id": str(uuid.uuid4()),
+                "name": "Sri",
+                "review": "Rendangnya enak banget, dagingnya empuk!",
+                "date": "25 Maret 2023"
+            }]
+    },
+    "7fkdk3j82kf8w1e867": {
+        "id": "7fkdk3j82kf8w1e867",
+        "name": "Bale Udang Mang Engking",
+        "description": "Restoran dengan suasana pedesaan yang menyajikan hidangan udang segar.",
+        "city": "Bandung",
+        "address": "Jl. Cihampelas No. 14, Bandung",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6aEAPIqhT3znY6ClBgKLh-AOdYRA2SQR0QQ&s",
+        "categories": [
+            {"name": "Indonesian"},
+            {"name": "Seafood"}
+        ],
+        "menus": {
+            "foods": [
+                {"name": "Udang Bakar"},
+                {"name": "Udang Goreng Tepung"}
+            ],
+            "drinks": [{"name": "Es Teh Manis"},
+                {"name": "Es Cincau"}]
+        },
+        "rating": 4.6,
+        "customerReviews": [{
+                "review_id": str(uuid.uuid4()),
+                "name": "Sri",
+                "review": "Udangnya enak banget, dagingnya empuk!",
+                "date": "25 Maret 2023"
+            }]
+    },
+    "f8alc3j82kf8w1e867": {
+        "id": "f8alc3j82kf8w1e867",
+        "name": "Tahu Gejrot Pak John",
+        "description": "Tahu gejrot dengan kuah pedas manis yang nikmat.",
+        "city": "Cirebon",
+        "address": "Jl. Cirebon Utara No. 5, Cirebon",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDqCT1PZaCRRsUCswV4pbhsFsxW782LkkDCDwgbR_TXRZkEYceIHugWdj-IBf8ufCgAJ8&usqp=CAU",
+        "categories": [
+            {"name": "Indonesian"},
+            {"name": "Tahu Gejrot"}
+        ],
+        "menus": {
+            "foods": [
+                {"name": "Tahu Gejrot"},
+                {"name": "Tahu Sumedang"}
+            ],
+            "drinks": [{"name": "Es Teh Manis"},
+                {"name": "Es Cincau"}]
+        },
+        "rating": 4.4,
+        "customerReviews": [{
+                "review_id": str(uuid.uuid4()),
+                "name": "Sri",
+                "review": "Tahunya enak banget, dagingnya empuk!",
+                "date": "25 Maret 2023"
+            }]
+    },
+    "f8kdk3j82kf8w1q777": {
+        "id": "f8kdk3j82kf8w1q777",
+        "name": "Mie Kocok Mang Dadeng",
+        "description": "Mie kocok dengan kuah kaldu yang gurih dan kikil yang empuk.",
+        "city": "Bandung",
+        "address": "Jl. Kebon Sirih No. 23, Bandung",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY4Y4kBqSqoBVcnPflwLTEQK3byi0HifhA5A&s",
+        "categories": [
+            {"name": "Indonesian"},
+            {"name": "Noodle"}
+        ],
+        "menus": {
+            "foods": [
+                {"name": "Mie Kocok"},
+                {"name": "Mie Ayam"}
+            ],
+            "drinks": [{"name": "Es Teh Manis"},
+                {"name": "Es Cincau"}]
+        },
+        "rating": 4.5,
+         "customerReviews": [{
+                "review_id": str(uuid.uuid4()),
+                "name": "Sri",
+                "review": "Mienya enak banget, dagingnya empuk!",
+                "date": "25 Maret 2023"
+            }]
+    },
+    "f8alc3j14sf8w1e867": {
+        "id": "f8alc3j14sf8w1e867",
+        "name": "Nasi Liwet Wongso Lemu",
+        "description": "Nasi liwet khas Solo dengan cita rasa yang autentik.",
+        "city": "Solo",
+        "address": "Jl. Slamet Riyadi No. 123, Solo",
+        "pictureId": "https://awsimages.detik.net.id/community/media/visual/2021/12/05/nasi-liwet-bu-wongso-lemu-2.jpeg?w=3264",
+        "categories": [
+            {"name": "Indonesian"},
+            {"name": "Nasi Liwet"}
+        ],
+        "menus": {
+            "foods": [
+                {"name": "Nasi Liwet"},
+                {"name": "Ayam Goreng"}
+            ],
+            "drinks": [{"name": "Es Teh Manis"},
+                {"name": "Es Cincau"}]
+        },
+        "rating": 4.7,
+        "customerReviews": [{
+                "review_id": str(uuid.uuid4()),
+                "name": "Sri",
+                "review": "Dagingya enak banget, dagingnya empuk!",
+                "date": "25 Maret 2023"
+            }]
+    },
+    "f2xlc3j82kf8w1e867": {
+        "id": "f2xlc3j82kf8w1e867",
+        "name": "Tahu Sumedang Renyah",
+        "description": "Tahu Sumedang yang gurih dan renyah di luar, lembut di dalam.",
+        "city": "Sumedang",
+        "address": "Jl. Raya Sumedang No. 78, Sumedang",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-XbeaECSJxGfsMUTS-jfY3rM4ri9wDj4H7A&s",
+        "categories": [
+            {"name": "Indonesian"},
+            {"name": "Tahu Sumedang"}
+        ],
+        "menus": {
+            "foods": [
+                {"name": "Tahu Sumedang"},
+                {"name": "Tahu Goreng"}
+            ],
+            "drinks": [{"name": "Es Teh Manis"},
+                {"name": "Es Cincau"}]
+        },
+        "rating": 4.4,
+        "customerReviews": [{
+                "review_id": str(uuid.uuid4()),
+                "name": "Sri",
+                "review": "Tahunya enak banget, dagingnya empuk!",
+                "date": "25 Maret 2023"
+            }]
+    },
+    "f8alc3l90kf8w1e867": {
+        "id": "f8alc3l90kf8w1e867",
+        "name": "Es Campur Pak Oyen",
+        "description": "Es campur dengan beragam isian yang menyegarkan dan manis.",
+        "city": "Bandung",
+        "address": "Jl. Cibaduyut No. 15, Bandung",
+        "pictureId": "https://assets.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/2022/04/25/1103737014.jpg",
+        "categories": [
+            {"name": "Indonesian"},
+            {"name": "Dessert"}
+        ],
+        "menus": {
+            "foods": [],
+            "drinks": [
+                {"name": "Es Campur"},
+                {"name": "Es Teler"}
+            ]
+        },
+        "rating": 4.6,
+         "customerReviews": [{
+                "review_id": str(uuid.uuid4()),
+                "name": "Sri",
+                "review": "Esnya enak banget, nanasnya empuk!",
+                "date": "25 Maret 2023"
+            }]
+    },
+    "m1alc3j82kf8w1e867": {
+        "id": "m1alc3j82kf8w1e867",
+        "name": "Kerak Telor Bang Ino",
+        "description": "Kerak telor khas Betawi dengan rasa yang autentik.",
+        "city": "Jakarta",
+        "address": "Jl. Setiabudi No. 10, Jakarta",
+        "pictureId": "https://i.gojekapi.com/darkroom/gofood-indonesia/v2/images/uploads/081df485-ed86-43a7-a5ce-98d6d4587576.jpg",
+        "categories": [
+            {"name": "Indonesian"},
+            {"name": "Betawi"}
+        ],
+        "menus": {
+            "foods": [
+                {"name": "Kerak Telor"},
+                {"name": "Ketoprak"}
+            ],
+            "drinks": [
+                {"name": "Es Campur"},
+                {"name": "Es Teler"}
+            ]
+        },
+        "rating": 4.7,
+        "customerReviews": [{
+                "review_id": str(uuid.uuid4()),
+                "name": "Sri",
+                "review": "Telornya enak banget, nasinya empuk!",
+                "date": "25 Maret 2023"
+            }]
+    },
+    "b4alc3j82kf8w1e867": {
+        "id": "b4alc3j82kf8w1e867",
+        "name": "Soto Lamongan Cak Har",
+        "description": "Soto Lamongan dengan kuah yang kaya rempah dan daging ayam yang empuk.",
+        "city": "Surabaya",
+        "address": "Jl. Setiabudi No. 10, Surabaya",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbVzQZC4pF5K5e8-0vTFQRk3g80RZoCjw-7w&s",
+        "categories": [
+            {"name": "Indonesian"},
+            {"name": "Soto"}
+        ],
+        "menus": {
+            "foods": [
+                {"name": "Soto Betawi"},
+                {"name": "Soto Ayam"}
+            ],
+            "drinks": [
+                {"name": "Es Campur"},
+                {"name": "Es Teler"}
+            ]
+        },
+        "rating": 4.7,
+         "customerReviews": [{
+                "review_id": str(uuid.uuid4()),
+                "name": "Sri",
+                "review": "Sotonya enak banget, nasinya empuk!",
+                "date": "25 Maret 2023"
+            }]
+    },
+    "l9alc3j82kf8w1e867": {
+        "id": "l9alc3j82kf8w1e867",
+        "name": "Bakso President",
+        "description": "Bakso dengan kuah kaldu yang gurih dan bakso yang kenyal.",
+        "city": "Malang",
+        "address": "Jl. Setiabudi No. 10, Malang",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7nlkx9sXesFmDWE-DmyoMVuMCrfMefQBmpg&s",
+        "categories": [
+            {"name": "Indonesian"},
+            {"name": "Bakso"}
+        ],
+        "menus": {
+            "foods": [
+                {"name": "Bakso Urat"},
+                {"name": "Bakso Ayam"}
+            ],
+            "drinks": [
+                {"name": "Es Campur"},
+                {"name": "Es Teler"}
+            ]
+        },
+        "rating": 4.6,
+         "customerReviews": [{
+                "review_id": str(uuid.uuid4()),
+                "name": "Sri",
+                "review": "Baksonya enak banget, daginnya empuk!",
+                "date": "25 Maret 2023"
+            }]
+    },
+    "o7alc3j82kf8w1e867": {
+        "id": "o7alc3j82kf8w1e867",
+        "name": "Nasi Krawu Mbuk Su",
+        "description": "Nasi krawu dengan beragam lauk yang lezat dan bumbu yang kaya.",
+        "city": "Gresik",
+        "address": "Jl. Slamet Riyadi No. 123, Gresik",
+        "pictureId": "https://static.promediateknologi.id/crop/0x0:0x0/750x500/webp/photo/p1/1053/2024/03/14/krawu-legen-1697157603.jpg",
+        "categories": [
+            {"name": "Indonesian"},
+            {"name": "Nasi Krawu"}
+        ],
+        "menus": {
+            "foods": [
+                {"name": "Nasi Krawu"},
+                {"name": "Ayam Goreng"}
+            ],
+            "drinks": [{"name": "Es Teh Manis"},
+                {"name": "Es Cincau"}]
+        },
+        "rating": 4.7,
+        "customerReviews": [{
+                "review_id": str(uuid.uuid4()),
+                "name": "Sri",
+                "review": "Dagingya enak banget, dagingnya empuk!",
+                "date": "25 Maret 2023"
+            }]
+    },
+    "k3alc3j82kf8w1e867": {
+        "id": "k3alc3j82kf8w1e867",
+        "name": "Nasi Goreng Kambing Kebon Sirih",
+        "description": "Nasi goreng kambing dengan bumbu rempah yang khas dan daging kambing yang empuk.",
+        "city": "Jakarta",
+        "address": "Jl. Slamet Riyadi No. 123, Jakarta",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNygkQFPvr_VE6Q60fMpwMJHsnsn39KXOnqw&s",
+        "categories": [
+            {"name": "Indonesian"},
+            {"name": "Nasi Goreng"}
+        ],
+        "menus": {
+            "foods": [
+                {"name": "Nasi goreng Kambing"},
+                {"name": "Ayam Goreng"}
+            ],
+            "drinks": [{"name": "Es Teh Manis"},
+                {"name": "Es Cincau"}]
+        },
+        "rating": 4.5,
+        "customerReviews": [{
+                "review_id": str(uuid.uuid4()),
+                "name": "Sri",
+                "review": "Nasinya enak banget, dagingnya empuk!",
+                "date": "25 Maret 2023"
+            }]
+    },
+    "f2zlc3j82kf8w1e867": {
+        "id": "f2zlc3j82kf8w1e867",
+        "name": "Es Teler 77",
+        "description": "Es teler dengan campuran buah dan susu yang segar dan nikmat.",
+        "city": "Jakarta",
+        "address": "Jl. Slamet Riyadi No. 123, Jakarta",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZbhRpSKFF3yB-24vHLwnatlbbzxwuA48SLw&s",
+        "categories": [
+            {"name": "Indonesian"},
+            {"name": "Es Teler"}
+        ],
+        "menus": {
+            "foods": [
+                {"name": "Nasi goreng Kambing"},
+                {"name": "Ayam Goreng"}
+            ],
+            "drinks": [{"name": "Es Teh Manis"},
+                {"name": "Es Cincau"}]
+        },
+        "rating": 4.4,
+        "customerReviews": [{
+                "review_id": str(uuid.uuid4()),
+                "name": "Sri",
+                "review": "Esnya enak banget, nanasnya empuk!",
+                "date": "25 Maret 2023"
+            }]
     }
 }
+
+
+
+
