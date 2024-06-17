@@ -80,8 +80,8 @@ restaurants = [
         "pictureId": "https://tse3.mm.bing.net/th?id=OIP.SimA76WBMTCvbJzUPhMb7AHaE8&pid=Api&P=0&h=180",
         "city": "Yogyakarta",
         "rating": 4.9
-    }
-     {
+    },
+    {
         "id": "f4kdk3j82kf8w1e821",
         "name": "Ayam Goreng Suharti",
         "description": "Ayam goreng dengan bumbu kremes yang renyah dan lezat.",
@@ -178,7 +178,7 @@ restaurants = [
         "rating": 4.5
     },
     {
-        "id":"f8alc3j14sf8w1e867",
+        "id": "f8alc3j14sf8w1e867",
         "name": "Nasi Liwet Wongso Lemu",
         "description": "Nasi liwet khas Solo dengan cita rasa yang autentik.",
         "pictureId": "https://awsimages.detik.net.id/community/media/visual/2021/12/05/nasi-liwet-bu-wongso-lemu-2.jpeg?w=3264",
@@ -221,7 +221,7 @@ restaurants = [
         "id": "l9alc3j82kf8w1e867",
         "name": "Bakso President",
         "description": "Bakso dengan kuah kaldu yang gurih dan bakso yang kenyal.",
-        "pictureId": "hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7nlkx9sXesFmDWE-DmyoMVuMCrfMefQBmpg&s",
+        "pictureId": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7nlkx9sXesFmDWE-DmyoMVuMCrfMefQBmpg&s",
         "city": "Malang",
         "rating": 4.6
     },
@@ -250,7 +250,6 @@ restaurants = [
         "rating": 4.4
     }
 ]
-
 
 details = {
     "rqdv5juczeskfw1e867": {
@@ -563,7 +562,6 @@ details = {
             }
         ]
     },
-    
     "f4kdk3j82kf8w1e821": {
         "id": "f4kdk3j82kf8w1e821",
         "name": "Ayam Goreng Suharti",
@@ -802,16 +800,20 @@ details = {
                 {"name": "Sate Babi"},
                 {"name": "Sate Lilit"}
             ],
-            "drinks": [{"name": "Es Teh Manis"},
-                {"name": "Es Cincau"}]
+            "drinks": [
+                {"name": "Es Teh Manis"},
+                {"name": "Es Cincau"}
+            ]
         },
         "rating": 4.8,
-        "customerReviews": [{
+        "customerReviews": [
+            {
                 "review_id": str(uuid.uuid4()),
                 "name": "Sri",
                 "review": "Satenya enak banget, dagingnya empuk!",
                 "date": "25 Maret 2023"
-            }]
+            }
+        ]
     },
     "f2ilk3j82kf8w1e867": {
         "id": "f2ilk3j82kf8w1e867",
@@ -829,16 +831,20 @@ details = {
                 {"name": "Nasi Padang"},
                 {"name": "Rendang"}
             ],
-            "drinks": [{"name": "Es Teh Manis"},
-                {"name": "Es Cincau"}]
+            "drinks": [
+                {"name": "Es Teh Manis"},
+                {"name": "Es Cincau"}
+            ]
         },
         "rating": 4.5,
-        "customerReviews": [{
+        "customerReviews": [
+            {
                 "review_id": str(uuid.uuid4()),
                 "name": "Sri",
                 "review": "Rendangnya enak banget, dagingnya empuk!",
                 "date": "25 Maret 2023"
-            }]
+            }
+        ]
     },
     "7fkdk3j82kf8w1e867": {
         "id": "7fkdk3j82kf8w1e867",
@@ -856,16 +862,20 @@ details = {
                 {"name": "Udang Bakar"},
                 {"name": "Udang Goreng Tepung"}
             ],
-            "drinks": [{"name": "Es Teh Manis"},
-                {"name": "Es Cincau"}]
+            "drinks": [
+                {"name": "Es Teh Manis"},
+                {"name": "Es Cincau"}
+            ]
         },
         "rating": 4.6,
-        "customerReviews": [{
+        "customerReviews": [
+            {
                 "review_id": str(uuid.uuid4()),
                 "name": "Sri",
                 "review": "Udangnya enak banget, dagingnya empuk!",
                 "date": "25 Maret 2023"
-            }]
+            }
+        ]
     },
     "f8alc3j82kf8w1e867": {
         "id": "f8alc3j82kf8w1e867",
@@ -883,16 +893,20 @@ details = {
                 {"name": "Tahu Gejrot"},
                 {"name": "Tahu Sumedang"}
             ],
-            "drinks": [{"name": "Es Teh Manis"},
-                {"name": "Es Cincau"}]
+            "drinks": [
+                {"name": "Es Teh Manis"},
+                {"name": "Es Cincau"}
+            ]
         },
         "rating": 4.4,
-        "customerReviews": [{
+        "customerReviews": [
+            {
                 "review_id": str(uuid.uuid4()),
                 "name": "Sri",
                 "review": "Tahunya enak banget, dagingnya empuk!",
                 "date": "25 Maret 2023"
-            }]
+            }
+        ]
     },
     "f8kdk3j82kf8w1q777": {
         "id": "f8kdk3j82kf8w1q777",
@@ -910,16 +924,20 @@ details = {
                 {"name": "Mie Kocok"},
                 {"name": "Mie Ayam"}
             ],
-            "drinks": [{"name": "Es Teh Manis"},
-                {"name": "Es Cincau"}]
+            "drinks": [
+                {"name": "Es Teh Manis"},
+                {"name": "Es Cincau"}
+            ]
         },
         "rating": 4.5,
-         "customerReviews": [{
+        "customerReviews": [
+            {
                 "review_id": str(uuid.uuid4()),
                 "name": "Sri",
                 "review": "Mienya enak banget, dagingnya empuk!",
                 "date": "25 Maret 2023"
-            }]
+            }
+        ]
     },
     "f8alc3j14sf8w1e867": {
         "id": "f8alc3j14sf8w1e867",
@@ -937,16 +955,20 @@ details = {
                 {"name": "Nasi Liwet"},
                 {"name": "Ayam Goreng"}
             ],
-            "drinks": [{"name": "Es Teh Manis"},
-                {"name": "Es Cincau"}]
+            "drinks": [
+                {"name": "Es Teh Manis"},
+                {"name": "Es Cincau"}
+            ]
         },
         "rating": 4.7,
-        "customerReviews": [{
+        "customerReviews": [
+            {
                 "review_id": str(uuid.uuid4()),
                 "name": "Sri",
                 "review": "Dagingya enak banget, dagingnya empuk!",
                 "date": "25 Maret 2023"
-            }]
+            }
+        ]
     },
     "f2xlc3j82kf8w1e867": {
         "id": "f2xlc3j82kf8w1e867",
@@ -964,16 +986,20 @@ details = {
                 {"name": "Tahu Sumedang"},
                 {"name": "Tahu Goreng"}
             ],
-            "drinks": [{"name": "Es Teh Manis"},
-                {"name": "Es Cincau"}]
+            "drinks": [
+                {"name": "Es Teh Manis"},
+                {"name": "Es Cincau"}
+            ]
         },
         "rating": 4.4,
-        "customerReviews": [{
+        "customerReviews": [
+            {
                 "review_id": str(uuid.uuid4()),
                 "name": "Sri",
                 "review": "Tahunya enak banget, dagingnya empuk!",
                 "date": "25 Maret 2023"
-            }]
+            }
+        ]
     },
     "f8alc3l90kf8w1e867": {
         "id": "f8alc3l90kf8w1e867",
@@ -994,12 +1020,14 @@ details = {
             ]
         },
         "rating": 4.6,
-         "customerReviews": [{
+        "customerReviews": [
+            {
                 "review_id": str(uuid.uuid4()),
                 "name": "Sri",
                 "review": "Esnya enak banget, nanasnya empuk!",
                 "date": "25 Maret 2023"
-            }]
+            }
+        ]
     },
     "m1alc3j82kf8w1e867": {
         "id": "m1alc3j82kf8w1e867",
@@ -1023,12 +1051,14 @@ details = {
             ]
         },
         "rating": 4.7,
-        "customerReviews": [{
+        "customerReviews": [
+            {
                 "review_id": str(uuid.uuid4()),
                 "name": "Sri",
                 "review": "Telornya enak banget, nasinya empuk!",
                 "date": "25 Maret 2023"
-            }]
+            }
+        ]
     },
     "b4alc3j82kf8w1e867": {
         "id": "b4alc3j82kf8w1e867",
@@ -1052,12 +1082,14 @@ details = {
             ]
         },
         "rating": 4.7,
-         "customerReviews": [{
+        "customerReviews": [
+            {
                 "review_id": str(uuid.uuid4()),
                 "name": "Sri",
                 "review": "Sotonya enak banget, nasinya empuk!",
                 "date": "25 Maret 2023"
-            }]
+            }
+        ]
     },
     "l9alc3j82kf8w1e867": {
         "id": "l9alc3j82kf8w1e867",
@@ -1081,12 +1113,14 @@ details = {
             ]
         },
         "rating": 4.6,
-         "customerReviews": [{
+        "customerReviews": [
+            {
                 "review_id": str(uuid.uuid4()),
                 "name": "Sri",
                 "review": "Baksonya enak banget, daginnya empuk!",
                 "date": "25 Maret 2023"
-            }]
+            }
+        ]
     },
     "o7alc3j82kf8w1e867": {
         "id": "o7alc3j82kf8w1e867",
@@ -1104,16 +1138,20 @@ details = {
                 {"name": "Nasi Krawu"},
                 {"name": "Ayam Goreng"}
             ],
-            "drinks": [{"name": "Es Teh Manis"},
-                {"name": "Es Cincau"}]
+            "drinks": [
+                {"name": "Es Teh Manis"},
+                {"name": "Es Cincau"}
+            ]
         },
         "rating": 4.7,
-        "customerReviews": [{
+        "customerReviews": [
+            {
                 "review_id": str(uuid.uuid4()),
                 "name": "Sri",
                 "review": "Dagingya enak banget, dagingnya empuk!",
                 "date": "25 Maret 2023"
-            }]
+            }
+        ]
     },
     "k3alc3j82kf8w1e867": {
         "id": "k3alc3j82kf8w1e867",
@@ -1131,16 +1169,20 @@ details = {
                 {"name": "Nasi goreng Kambing"},
                 {"name": "Ayam Goreng"}
             ],
-            "drinks": [{"name": "Es Teh Manis"},
-                {"name": "Es Cincau"}]
+            "drinks": [
+                {"name": "Es Teh Manis"},
+                {"name": "Es Cincau"}
+            ]
         },
         "rating": 4.5,
-        "customerReviews": [{
+        "customerReviews": [
+            {
                 "review_id": str(uuid.uuid4()),
                 "name": "Sri",
                 "review": "Nasinya enak banget, dagingnya empuk!",
                 "date": "25 Maret 2023"
-            }]
+            }
+        ]
     },
     "f2zlc3j82kf8w1e867": {
         "id": "f2zlc3j82kf8w1e867",
@@ -1158,19 +1200,19 @@ details = {
                 {"name": "Nasi goreng Kambing"},
                 {"name": "Ayam Goreng"}
             ],
-            "drinks": [{"name": "Es Teh Manis"},
-                {"name": "Es Cincau"}]
+            "drinks": [
+                {"name": "Es Teh Manis"},
+                {"name": "Es Cincau"}
+            ]
         },
         "rating": 4.4,
-        "customerReviews": [{
+        "customerReviews": [
+            {
                 "review_id": str(uuid.uuid4()),
                 "name": "Sri",
                 "review": "Esnya enak banget, nanasnya empuk!",
                 "date": "25 Maret 2023"
-            }]
+            }
+        ]
     }
 }
-
-
-
-
